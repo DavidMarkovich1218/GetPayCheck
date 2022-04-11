@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ПолучиЗарплату</string>
+    <string name="print_your_name_to_get_paycheck">Напишите ваше имя чтобы получить зарплату</string>
+    <string name="your_name">Ваше имя</string>
+    <string name="code">Код</string>
+    <string name="get_paycheck">Получить зарплату</string>
+    <string name="get_dollars">Получите зарплату</string>
+</resources>

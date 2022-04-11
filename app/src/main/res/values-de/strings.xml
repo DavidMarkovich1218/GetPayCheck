@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GehaltssCheckErhalten</string>
+    <string name="print_your_name_to_get_paycheck">Drucken Sie Ihren Namen, um Ihren Gehaltsscheck zu erhalten</string>
+    <string name="your_name">Ihr Name</string>
+    <string name="code">Code</string>
+    <string name="get_paycheck">Gehaltsscheck erhalten</string>
+</resources>

@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">GetPayCheck</string>
+    <string name="print_your_name_to_get_paycheck">Print Your Name to Get Paycheck</string>
+    <string name="your_name">Your Name</string>
+    <string name="code">Code</string>
+    <string name="get_paycheck">Get PayCheck</string>
 </resources>
