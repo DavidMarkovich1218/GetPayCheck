@@ -5,4 +5,5 @@
     <string name="code">Код</string>
     <string name="get_paycheck">Получить зарплату</string>
     <string name="get_dollars">Получите зарплату</string>
+    <string name="back">Назад</string>
 </resources>

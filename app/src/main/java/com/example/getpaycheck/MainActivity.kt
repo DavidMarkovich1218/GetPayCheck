@@ -1,5 +1,6 @@
 package com.example.getpaycheck
 
+import android.content.Intent
 import android.graphics.Color
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
@@ -82,6 +83,9 @@ class MainActivity : AppCompatActivity() {
                 }
             }
         }
-
+    binding.settingsBtn?.setOnClickListener() {
+        val intent = Intent(this, SettingsActivity::class.java)
+        startActivity(intent)
+    }
     }
 }
